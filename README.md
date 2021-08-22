@@ -1,2 +1,2 @@
-# questions-plataform
-Plataforma de questões utilizando Express e MySQL.
+# asks-mais-de-8000
+Plataforma de questões utilizando Express, MySQL e Sequelize.
